@@ -11,12 +11,22 @@ let schoolBulletin;
 
 // this variable is set to an object
 schoolBulletin = {
-  message: "Cougars Win!"
+  message: "Go Bulldogs!Red and Blue!!!"
+}
+elliesBulletin = {
+  message: "Go Saints! Who dat say they goin beat those saints"
 }
 
 alicesBulletin = schoolBulletin;
 bobsBulletin = alicesBulletin;
 carolsBulletin = bobsBulletin;
+dansBulletin = carolsBulletin;
+elliesBulletin = elliesBulletin;
+franksBulletin = dansBulletin;
+gregsBulletin = franksBulletin;
+harrysBulletin = gregsBulletin;
+ivysBulletin = elliesBulletin;
+jacksBulletin = ivysBulletin;
 
 
 // call setNames from 'messages.js'
